@@ -1,14 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mikiyas%20Afelew&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20%C2%B7%20Mobile%20%C2%B7%20Cybersecurity%20%C2%B7%20DevSecOps&descAlignY=60&descSize=17" width="100%" alt="Mikiyas Afelew banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=header" width="100%" alt="Header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=2C9FD9&center=true&vCenter=true&width=700&lines=Secure+web+and+mobile+applications;Application+security+assessment;DevSecOps+and+CI%2FCD+automation" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=2500&pause=60000&color=2C9FD9&center=true&vCenter=true&width=700&height=60&repeat=false&lines=Mikiyas+Afelew" alt="Mikiyas Afelew" />
+</a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&pause=1800&color=9AA7B2&center=true&vCenter=true&width=700&height=40&lines=Web+%C2%B7+Mobile+%C2%B7+Cybersecurity+%C2%B7+DevSecOps;Secure+web+and+mobile+applications;Application+security+assessment" alt="Tagline" />
 </a>
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=MikiyasAfelew&label=Profile+views&color=2c5364&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/MikiyasAfelew?style=flat-square&color=2c5364)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20client%20work-2ea44f?style=flat-square)
 
@@ -166,7 +169,9 @@ I enjoy turning a client's idea into something clear, reliable and secure, and I
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MikiyasAfelew&bg_color=0d1117&color=2c9fd9&line=2c9fd9&point=ffffff&area=true&area_color=2c9fd9&hide_border=true" alt="Contribution activity graph" width="100%" />
+<img src="https://ghchart.rshah.org/2c9fd9/MikiyasAfelew" alt="MikiyasAfelew contribution calendar" width="100%" />
+
+<sub>Contributions from the last year. The more you commit and push, the fuller this fills in.</sub>
 
 </div>
 
